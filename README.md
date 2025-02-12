@@ -10,7 +10,7 @@ Information and Communication Technology for Intelligent Applications
 - 卓綵倫 / Tsia-Lun Cho
 
 ### Time:
-- 2024S(1122), 11:10-16:00 Mon.
+- 2024S(1122), 15:10-18:00 Mon.
 
 ### Intros:
 - This course teaches us basic Python programming and the use of machine learning.
